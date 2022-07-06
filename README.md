@@ -1,4 +1,4 @@
-### Hi,👋 I’m Fellipe Vasconcelos
+### Hi 👋, I’m Fellipe Vasconcelos
 
 
 - 🌱 I’m currently learning front end development...
